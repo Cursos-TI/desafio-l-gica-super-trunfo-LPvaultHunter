@@ -78,7 +78,7 @@ int main() {
     PIBP2 = (float)(PIB2 / populacao2);
     densidade2 = (float)(populacao2/area2);
 
-    // comparação de atributos
+    // comparação de atributos, população, área, PIB, PIB Per capita e densidade.
     printf("\nComparacao de Cartas(Areas) \n");
     printf("\n");
     if (area1 > area2)
